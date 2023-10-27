@@ -23,9 +23,9 @@
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
 </div>
 
-<div style="text-align:center;">
-<h2>Technologies I'm currently learning:</h2> 
-</div>
+
+<h2 align="center">Technologies I'm currently learning:</h2> 
+
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
