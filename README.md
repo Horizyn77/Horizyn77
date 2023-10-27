@@ -1,5 +1,8 @@
 ![Github banner](https://github.com/Horizyn77/Horizyn77/assets/116552523/6dc8d1c0-77a2-4cd9-a8d4-db566666903b)
 
+### Hi there 👋
+
+I'm Hidaayat, a Full Stack Web Developer who is passionate about learning and web development. I always had an interest and desire to pursue programming but didn't delve into it seriously until I attended a coding bootcamp in Cape Town in 2023 called Project codeX. There I built a solid foundation in software developemnt and gained an extensive list of skills including problem solving and thinking like a programmer. I love learning about new technologies and stimulating my mind trying to understand coding concepts.
 
 <h2 align="center">Technologies I'm proficient in:</h2>
 
