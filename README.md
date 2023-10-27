@@ -1,7 +1,7 @@
 ![Github banner](https://github.com/Horizyn77/Horizyn77/assets/116552523/6dc8d1c0-77a2-4cd9-a8d4-db566666903b)
 
 <div style="text-align: center;">
-## Technologies I'm proficient in:
+<h2>Technologies I'm proficient in:</h2>
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 </div>
 
 <div style="text-align: center;">
-## Technologies I'm currently learning: 
+<h2>Technologies I'm currently learning:</h2> 
 </div>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
