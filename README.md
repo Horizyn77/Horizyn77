@@ -1,8 +1,7 @@
 ![Github banner](https://github.com/Horizyn77/Horizyn77/assets/116552523/6dc8d1c0-77a2-4cd9-a8d4-db566666903b)
 
-<div style="text-align:center;">
-<h2>Technologies I'm proficient in:</h2>
-</div>
+
+<h2 align="center">Technologies I'm proficient in:</h2>
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
