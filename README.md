@@ -1,7 +1,4 @@
-### Hi there 👋
-
 ![Github banner](https://github.com/Horizyn77/Horizyn77/assets/116552523/6dc8d1c0-77a2-4cd9-a8d4-db566666903b)
-
 <!--
 **Horizyn77/Horizyn77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
