@@ -1,4 +1,4 @@
-![Github banner](https://github.com/Horizyn77/Horizyn77/assets/116552523/6dc8d1c0-77a2-4cd9-a8d4-db566666903b)
+![Github Banner](https://github.com/Horizyn77/Horizyn77/assets/116552523/54646a9f-4cde-419a-bc8a-16dc8044246f)
 
 ### Hi there 👋
 
