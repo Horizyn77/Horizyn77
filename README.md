@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Hidaayat, a Full Stack Web Developer who is passionate about learning and web development. I attended a coding bootcamp in Cape Town in 2023 called Project codeX. There I built a solid foundation in software developemnt and gained an extensive list of skills including problem solving, thinking like a programmer, collaboration and agile methodologies. I love learning about new technologies and stimulating my mind trying to understand coding concepts.
+I'm Hidaayat, a Full Stack Web Developer who is passionate about learning and web development. I attended a coding bootcamp in Cape Town in 2023 at Project codeX. There I built a solid foundation in software developemnt and gained an extensive list of skills including problem solving, thinking like a programmer, collaboration and agile methodologies. I love learning about new technologies and stimulating my mind trying to understand coding concepts.
 
 <h2 align="center">Technologies I'm proficient in:</h2>
 
